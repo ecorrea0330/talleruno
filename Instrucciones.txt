@@ -1,0 +1,2 @@
+el usuario es: admin
+la constraseña es : password
